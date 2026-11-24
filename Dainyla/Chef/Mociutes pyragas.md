@@ -3,6 +3,7 @@
 **Bendras kepimo laikas:** apie 50–65 min.  
 **Atvėsinimas:** 4–6 val. arba per naktį.
 
+![[IMG_4644.jpeg]]
 ## 1. Tešlos pagrindas
 
 50 g sviesto
