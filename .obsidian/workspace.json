@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dainyla/Random.md",
+                "file": "Dainyla/Chef/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random"
+              "title": "test"
             }
           }
         ]
@@ -189,5 +189,8 @@
     }
   },
   "active": "29b9615abcafdb84",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Dainyla/Random.md",
+    "Dainyla/Chef/test.md"
+  ]
 }
