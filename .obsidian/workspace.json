@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dainyla/Chef/Mociutes pyragas.md",
+                "file": "Dainyla/AI/Course notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mociutes pyragas"
+              "title": "Course notes"
             }
           }
         ]
@@ -191,9 +191,11 @@
   "active": "29b9615abcafdb84",
   "lastOpenFiles": [
     "Dainyla/AI/Ollama Ngrok Cursor.md",
-    "Pasted image 20261124112835.png",
-    "Pasted image 20261124112617.png",
+    "Dainyla/AI/Course notes.md",
     "Dainyla/Chef/Mociutes pyragas.md",
-    "Dainyla/Random.md"
+    "Dainyla/Random.md",
+    "IMG_4644.jpeg",
+    "Pasted image 20261124112835.png",
+    "Pasted image 20261124112617.png"
   ]
 }
