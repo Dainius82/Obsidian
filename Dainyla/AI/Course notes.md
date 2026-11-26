@@ -25,3 +25,8 @@ In practice:
 - Run the second call soon after the first. If you wait more than a few minutes, the cache will probably be gone and you'll pay full price again.
 - You can confirm a hit in the token counts. After the second call, look at `response.usage.prompt_tokens_details.cached_tokens`. If it's above zero, the cache was used.
 
+**Gradio**
+https://gradio.app/guides/quickstart
+Or Streamlit - server rendered ui frameworks
+
+
